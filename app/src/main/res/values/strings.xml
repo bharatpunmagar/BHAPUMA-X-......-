@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluePush</string>
+    <string name="bt_off">Bluetooth बन्द छ</string>
+    <string name="enable_bt">खोल्नुहोस्</string>
+    <string name="pick_photo">फोटो छान्नुहोस्</string>
+    <string name="pick_voice">भ्वाइस छान्नुहोस्</string>
+    <string name="start">START</string>
+    <string name="nothing">केही छानिएको छैन</string>
+</resources>
